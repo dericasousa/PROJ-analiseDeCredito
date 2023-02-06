@@ -11,7 +11,7 @@ The Machine Learning project for Credit Prediction uses the "Credit Card Approva
 The objective is to classify whether a person is approved or not for credit.
 ## Data Source
 
- - [Dataset available by Kaggle](https://freecodecamp.com](https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data%5D)
+ - [Dataset available by Kaggle].(https://www.kaggle.com/datasets/samuelcortinhas/credit-card-approval-clean-data%5D)
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sousade.wordpress.com/)
